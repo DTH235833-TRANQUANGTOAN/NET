@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf01f64b4d811219fa0e3d5c7d64e6a2ce12a029")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18b4b9eb14a9067364b6966cfcb55c774621d037")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
